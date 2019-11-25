@@ -1,0 +1,1 @@
+enum SimpleCounterEvent { increment, decrement }
